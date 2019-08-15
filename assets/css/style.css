@@ -1,0 +1,60 @@
+body {
+    background-color: #6C5B7B;
+}
+
+.resume-container {
+    background-color: #C06C84;
+    margin: 100px auto;
+}
+
+.profile-image-section, .body-section {
+    transform: translateY(-60px);
+}
+
+.profile-image-section img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.profile-image-section h1 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+.name-color {
+    color: #F8B195;
+}
+
+p.d-none.d-md-block.float-left {
+    clear: both;
+}
+
+.education-section .gray-box {
+    background-color: #F8B195;
+    padding: 20px 20px 0 20px;
+}
+
+.contact-icons i {
+    font-size: 20px;
+    color: #355C7D;
+}
+
+.skills-section p {
+    background-color: #F8B195;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.hobbies-section p {
+    background-color: #355C7D;
+    padding: 10px;
+    color: black;
+    text-align: center;
+}
+
+.btn-dark {
+    background-color: #355C7D;
+    color: black;
+}
