@@ -56,3 +56,10 @@ p.d-none.d-md-block.float-left {
     background-color: #355C7D;
     color: black;
 }
+
+.fa {
+    font-weight: 900;
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+}
