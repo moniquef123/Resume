@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: lightblue;
 }
 
 .resume-container {
@@ -31,7 +31,6 @@ p.d-none.d-md-block.float-left {
 }
 
 .education-section .gray-box {
-    background-color: #F8B195;
     padding: 20px 20px 0 20px;
 }
 
