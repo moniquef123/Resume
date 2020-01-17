@@ -35,20 +35,18 @@ p.d-none.d-md-block.float-left {
 
 .contact-icons i {
     font-size: 20px;
-    color: #355C7D;
+    color: white;
 }
 
 .skills-section p {
-    background-color: #F8B195;
     color: black;
     font-weight: bold;
     padding: 10px;
 }
 
 .hobbies-section p {
-    background-color: #355C7D;
     padding: 10px;
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -56,10 +54,9 @@ p.d-none.d-md-block.float-left {
     background-color: #355C7D;
     color: black;
 }
-
-.fa {
-    font-weight: 900;
-    margin-right: 20px;
-    margin-left: 20px;
-    font-size: 25px;
+.fa-interests {
+margin-left: 20px;
+margin-right: 20px;
+font-size: 25px;
+color: white;
 }
